@@ -1,0 +1,16 @@
+pip install pyttsx3
+pip install numpy
+pip install SpeechRecognition
+pip install os
+pip install opencv-python
+pip install wikipedia
+pip install webbrrowser
+pip install pywhatkit
+pip install pillow
+pip install threading
+pip install  time
+pip install  tkinter.messagebox
+pip install  tkinter
+pip install ttkthemes 
+pip install  pygame 
+    

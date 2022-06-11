@@ -1,0 +1,15 @@
+1.open notepad
+2.open ms office
+3.open command promt               // open and close//
+4.play music
+5.ip address
+6.wikipedia
+7.search on youtube // manual search
+8.play song on  youtube  //direct search
+9.open youtube
+10.open gmail
+11.open facebook
+12.open what app
+13.open Goolge
+14.open alpha //certificate genorater//
+15.kill //terminate//
